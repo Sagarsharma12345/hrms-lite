@@ -1,8 +1,15 @@
 # HRMS Lite — Web-Based HR Management System
 
 **Developer:** Sagar Sharma  
+
 **Technology Stack:** Django + MySQL (Backend), React + Vite + Redux + Bootstrap (Frontend)
 
+**Live Demo:** [https://hrms.buynreadbooks.com](https://hrms.buynreadbooks.com/)
+
+**Test Credentials:**  
+- **Admin:**  
+  - Username: `sagar`  
+  - Password: `sagar`
 ---
 
 ## Problem Statement
@@ -125,10 +132,11 @@ POST /api/attendance/
 GET  /api/attendance/<employee_id>/   # Individual history
 
 ---
-Is README include hai:  
-- Problem statement  
-- Functional requirements  
-- Technical stack  
-- MySQL details (`sagar` username & password)  
-- API endpoints  
-- Project structure  
+### ✅ This README includes:
+- Problem Statement  
+- Functional Requirements  
+- Technical Stack  
+- Admin credentials (username: `sagar`, password: `sagar`)  
+- MySQL credentials (db name: `brb_hrms`, db password: `brb_hrms@123`, db user: `brb_hrms`, port : `3306` )
+- API Endpoints  
+- Project Structure
