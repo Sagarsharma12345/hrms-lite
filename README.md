@@ -81,8 +81,9 @@ cd client
 npm create vite@latest .
 Redux aur Zaruri Libraries
 npm install @reduxjs/toolkit react-redux axios react-router-dom
-7. Folder Structure (Manual)
+Folder Structure (Manual)
 mkdir src/store src/components src/pages src/services
+npm i redux-persist
 ```
 
 # Run Frontend
